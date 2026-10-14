@@ -20,7 +20,21 @@
       "email": "elina@example.com",
       "topic": "Городская мастерская",
       "createdAt": "2026-10-10T09:45:00.000Z"
+    },
+    {
+      "id": "4",
+      "name": "Bdfy",
+      "email": "student@example.com",
+      "topic": "Городская мастерская",
+      "createdAt": "2026-10-13T16:30:00.000Z"
+    },
+    {
+      "name": "poll",
+      "email": "gsodfg@sgfi.ru",
+      "topic": "Личный сайт-портфолио",
+      "createdAt": "2026-10-14T16:40:47.386Z",
+      "id": "_FyuN-velx8"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
-
